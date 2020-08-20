@@ -1,4 +1,7 @@
 <?php
+require_once("lib/raelgc/view/Template.php");
+    use raelgc\view\Template;
+?>
 namespace raelgc\view {
 
 	/**
